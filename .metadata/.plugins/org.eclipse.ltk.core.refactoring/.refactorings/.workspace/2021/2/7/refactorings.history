@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;IOCProj5&apos; to &apos;IOCProj5-FactoryPattern-CoreJava&apos;" description="Rename resource &apos;IOCProj5&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/IOCProj5" name="IOCProj5-FactoryPattern-CoreJava" stamp="1612682459026" updateReferences="true"/>
+</session>

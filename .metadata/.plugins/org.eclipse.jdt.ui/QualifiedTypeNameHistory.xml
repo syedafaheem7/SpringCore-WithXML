@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+    <fullyQualifiedTypeName name="com.nt.factory.CarFactory"/>
+    <fullyQualifiedTypeName name="com.nt.comp.ICar"/>
+    <fullyQualifiedTypeName name="com.nt.comps.CNGEngine"/>
+    <fullyQualifiedTypeName name="com.nt.comps.DieselEngine"/>
+    <fullyQualifiedTypeName name="com.nt.comps.IEngine"/>
+    <fullyQualifiedTypeName name="com.nt.comps.PetrolEngine"/>
+    <fullyQualifiedTypeName name="com.nt.factory.VehicleFactory"/>
+    <fullyQualifiedTypeName name="com.nt.comps.Vehicle"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+</qualifiedTypeNameHistroy>
